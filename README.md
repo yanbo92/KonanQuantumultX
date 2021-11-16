@@ -4,6 +4,7 @@
 ## [server_remote]
 
 ```
+
 https://kosub.ml/link/XXXXXXXXX?list=shadowrocket#emoji=-1&delreg=[\sV0-  9\s]&out=KONAN, tag=konanshadowrocket, update-interval=172800, opt-  parser=true, enabled=true  
 ```
 
