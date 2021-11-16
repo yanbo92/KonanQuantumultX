@@ -4,8 +4,7 @@
 ## [server_remote]
 
 ```
-
-https://kosub.ml/link/XXXXXXXXX?list=shadowrocket#emoji=-1&delreg=[\sV0-  9\s]&out=KONAN, tag=konanshadowrocket, update-interval=172800, opt-  parser=true, enabled=true  
+https://kosub.ml/link/XXXXXXXXX?list=shadowrocket#emoji=-1&delreg=[\sV0-<br/>9\s]&out=KONAN, tag=konanshadowrocket, update-interval=172800, opt-<br/>parser=true, enabled=true  
 ```
 
 该配置项的功能包括如下：
